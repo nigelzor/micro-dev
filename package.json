@@ -1,5 +1,5 @@
 {
-  "name": "micro-dev",
+  "name": "@nigelzor/micro-dev",
   "version": "3.0.0",
   "main": "./lib/index.js",
   "files": [
