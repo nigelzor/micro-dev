@@ -36,7 +36,7 @@
     "mri": "1.1.1",
     "pkg-up": "2.0.0",
     "pretty-error": "2.1.1",
-    "string-length": "2.0.0"
+    "string-width": "^4.2.3"
   },
   "devDependencies": {
     "@zeit/eslint-config-node": "0.2.13",
