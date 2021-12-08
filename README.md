@@ -20,10 +20,8 @@ This command line interface provides a belt full of tools that make building mic
 When preparing your development environment, firstly install `micro-dev`:
 
 ```bash
-npm install --save-dev micro-dev
+npm install --save-dev @nigelzor/micro-dev
 ```
-
-**Note:** You'll need at least Node.js v7.6.0 to run `micro-dev`.
 
 Next, add a new `script` property below `micro` inside `package.json`:
 
